@@ -1,0 +1,12 @@
+C:\Users\Jhonatan\source\repos\StocksSolutionCleanA\Stocks.Core\bin\Debug\net6.0\Stocks.Core.deps.json
+C:\Users\Jhonatan\source\repos\StocksSolutionCleanA\Stocks.Core\bin\Debug\net6.0\Stocks.Core.dll
+C:\Users\Jhonatan\source\repos\StocksSolutionCleanA\Stocks.Core\bin\Debug\net6.0\Stocks.Core.pdb
+C:\Users\Jhonatan\source\repos\StocksSolutionCleanA\Stocks.Core\obj\Debug\net6.0\Stocks.Core.csproj.AssemblyReference.cache
+C:\Users\Jhonatan\source\repos\StocksSolutionCleanA\Stocks.Core\obj\Debug\net6.0\Stocks.Core.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Jhonatan\source\repos\StocksSolutionCleanA\Stocks.Core\obj\Debug\net6.0\Stocks.Core.AssemblyInfoInputs.cache
+C:\Users\Jhonatan\source\repos\StocksSolutionCleanA\Stocks.Core\obj\Debug\net6.0\Stocks.Core.AssemblyInfo.cs
+C:\Users\Jhonatan\source\repos\StocksSolutionCleanA\Stocks.Core\obj\Debug\net6.0\Stocks.Core.csproj.CoreCompileInputs.cache
+C:\Users\Jhonatan\source\repos\StocksSolutionCleanA\Stocks.Core\obj\Debug\net6.0\Stocks.Core.dll
+C:\Users\Jhonatan\source\repos\StocksSolutionCleanA\Stocks.Core\obj\Debug\net6.0\refint\Stocks.Core.dll
+C:\Users\Jhonatan\source\repos\StocksSolutionCleanA\Stocks.Core\obj\Debug\net6.0\Stocks.Core.pdb
+C:\Users\Jhonatan\source\repos\StocksSolutionCleanA\Stocks.Core\obj\Debug\net6.0\ref\Stocks.Core.dll

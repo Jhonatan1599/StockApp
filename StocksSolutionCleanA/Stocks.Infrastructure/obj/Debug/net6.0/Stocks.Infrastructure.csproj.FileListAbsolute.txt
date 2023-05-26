@@ -1,0 +1,17 @@
+C:\Users\Jhonatan\source\repos\StocksSolutionCleanA\Stocks.Infrastructure\obj\Debug\net6.0\Stocks.Infrastructure.csproj.AssemblyReference.cache
+C:\Users\Jhonatan\source\repos\StocksSolutionCleanA\Stocks.Infrastructure\obj\Debug\net6.0\Stocks.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Jhonatan\source\repos\StocksSolutionCleanA\Stocks.Infrastructure\obj\Debug\net6.0\Stocks.Infrastructure.AssemblyInfoInputs.cache
+C:\Users\Jhonatan\source\repos\StocksSolutionCleanA\Stocks.Infrastructure\obj\Debug\net6.0\Stocks.Infrastructure.AssemblyInfo.cs
+C:\Users\Jhonatan\source\repos\StocksSolutionCleanA\Stocks.Infrastructure\obj\Debug\net6.0\Stocks.Infrastructure.csproj.CoreCompileInputs.cache
+C:\Users\Jhonatan\source\repos\StocksSolutionCleanA\Stocks.Infrastructure\bin\Debug\net6.0\Stocks.Infrastructure.deps.json
+C:\Users\Jhonatan\source\repos\StocksSolutionCleanA\Stocks.Infrastructure\bin\Debug\net6.0\Stocks.Infrastructure.runtimeconfig.json
+C:\Users\Jhonatan\source\repos\StocksSolutionCleanA\Stocks.Infrastructure\bin\Debug\net6.0\Stocks.Infrastructure.dll
+C:\Users\Jhonatan\source\repos\StocksSolutionCleanA\Stocks.Infrastructure\bin\Debug\net6.0\Stocks.Infrastructure.pdb
+C:\Users\Jhonatan\source\repos\StocksSolutionCleanA\Stocks.Infrastructure\bin\Debug\net6.0\Stocks.Core.dll
+C:\Users\Jhonatan\source\repos\StocksSolutionCleanA\Stocks.Infrastructure\bin\Debug\net6.0\Stocks.Core.pdb
+C:\Users\Jhonatan\source\repos\StocksSolutionCleanA\Stocks.Infrastructure\obj\Debug\net6.0\Stocks.Infrastructure.csproj.CopyComplete
+C:\Users\Jhonatan\source\repos\StocksSolutionCleanA\Stocks.Infrastructure\obj\Debug\net6.0\Stocks.Infrastructure.dll
+C:\Users\Jhonatan\source\repos\StocksSolutionCleanA\Stocks.Infrastructure\obj\Debug\net6.0\refint\Stocks.Infrastructure.dll
+C:\Users\Jhonatan\source\repos\StocksSolutionCleanA\Stocks.Infrastructure\obj\Debug\net6.0\Stocks.Infrastructure.pdb
+C:\Users\Jhonatan\source\repos\StocksSolutionCleanA\Stocks.Infrastructure\obj\Debug\net6.0\Stocks.Infrastructure.genruntimeconfig.cache
+C:\Users\Jhonatan\source\repos\StocksSolutionCleanA\Stocks.Infrastructure\obj\Debug\net6.0\ref\Stocks.Infrastructure.dll
